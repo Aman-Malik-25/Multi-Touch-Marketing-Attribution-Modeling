@@ -1,4 +1,4 @@
-Project 3 - Multi-Touch Marketing Attribution Modeling
+Project 2 - Multi-Touch Marketing Attribution Modeling
 
 This project develops an advanced data analytics solution for marketers to gain a true understanding of their campaign effectiveness by moving beyond simplistic "last-touch" attribution. It addresses the common problem where only the final interaction before a conversion gets credit, leading to misinformed budget allocation and an undervaluation of channels that contribute earlier in the customer journey.
 
